@@ -393,8 +393,6 @@ streamlit run app\streamlit_app.py
 
 ## Streamlit App Screenshot
 
-### Customer Recommendations
-
 ![BasketIQ Recommendations](reports/screenshots/app_page_recommendation_sample.png)
 
 ---
