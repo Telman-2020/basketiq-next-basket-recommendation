@@ -1,0 +1,32 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+data/raw/
+data/processed/
+
+# Reports figures
+reports/figures/
+
+# Model artifacts
+*.pkl
+*.joblib
+*.model
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+catboost_info/
