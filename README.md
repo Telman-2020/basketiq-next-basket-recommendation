@@ -473,7 +473,27 @@ This project demonstrates:
 
 ---
 
-## 17. Future Improvements
+## 17. CI/CD and Docker
+
+The project includes a lightweight CI/CD pipeline using GitHub Actions.
+
+The pipeline runs automatically on every push and pull request to the `main` branch.
+
+The CI/CD workflow checks:
+
+- Project structure
+- Python dependency installation
+- Core package imports
+- Source-code syntax using `compileall`
+- Docker image build
+
+This helps ensure that the repository remains reproducible, maintainable and deployment-ready.
+
+The Docker setup allows the Streamlit recommendation app to run in a containerised environment.
+
+---
+
+## 18. Future Improvements
 
 Potential future extensions:
 
@@ -489,7 +509,7 @@ Potential future extensions:
 
 ---
 
-## 18. Notes
+## 19. Notes
 
 The raw data and trained model artifacts are excluded from GitHub using `.gitignore`.
 
