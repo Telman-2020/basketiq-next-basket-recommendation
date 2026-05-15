@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/basketiq-project-thumbnail.png" alt="Next-Basket Recommendation with ML and Local LLM Analysis" width="900">
+</p>
+
 # BasketIQ: Next-Basket Recommendation with ML and Local LLM Analysis
 
 **Author:** Telman Maghrebi  
